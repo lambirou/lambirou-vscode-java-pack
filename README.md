@@ -1,6 +1,6 @@
 # README
 
-## This is the README for your extension pack "lambirou-vscode-php-pack"
+## This is the README for your extension pack "lambirou-vscode-java-pack"
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
